@@ -23,10 +23,10 @@
 /
 
  &coupler_nml
-            months = 2,
-            days   = 0,
+            months = 11,
+            days   = 00,
             hours  = 0,
-            current_date = 2014,1,1,0,0,0,
+            current_date = 1980,1,1,0,0,0,
             calendar = 'julian',
             dt_cpld = 3600,
             dt_atmos = 3600,
